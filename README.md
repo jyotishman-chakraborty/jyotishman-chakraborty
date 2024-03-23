@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jyotishman Chakraborty</h1>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Flottieanimationchainstarters--59813501292017265%2F&psig=AOvVaw3No_79SunJuYcSoTFaWQGo&ust=1711290570122000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMizl6bMioUDFQAAAAAdAAAAABAE">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Flottieanimationchainstarters--59813501292017265%2F&psig=AOvVaw3No_79SunJuYcSoTFaWQGo&ust=1711290570122000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMizl6bMioUDFQAAAAAdAAAAABAE">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotishman08&label=Profile%20views&color=0e75b6&style=flat" alt="jyotishman08" /> </p>
