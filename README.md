@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://twitter.com/jyotishman_08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jyotishman_08" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jyotishman-chakraborty-451535290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jyotishman chakraborty" height="30" width="40" /></a>
-<a href="https://fb.com/jyotishman chakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jyotishman chakraborty" height="30" width="40" /></a>
+<a href="https://fb.com/Jyotishman.Chakraborty.22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jyotishman chakraborty" height="30" width="40" /></a>
 <a href="https://instagram.com/jyotishman_08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jyotishman_08" height="30" width="40" /></a>
 </p>
 
