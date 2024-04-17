@@ -17,7 +17,8 @@
 
 <h3 align="left">Projects:</h3>
 <p align="left">
--ANALOG WATCH using HTML,CSS,JAVASCRIPT: (https://jyotishman-chakraborty.github.io/AnalogWatch/)
+- ANALOG WATCH using HTML,CSS,JAVASCRIPT: https://jyotishman-chakraborty.github.io/AnalogWatch/
+</p>
 
 
 
