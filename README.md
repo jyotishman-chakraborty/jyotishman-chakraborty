@@ -36,11 +36,10 @@
 
 
 <h3 align="left">🔥   My Stats :</h3>
-<img align="right" height="210" width="280" alt="coding" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"> 
 <div align="left">
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jyotishman08&show_icons=true&locale=en&layout=compact" height="210" alt="languages graph" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jyotishman-chakraborty&show_icons=true&locale=en&layout=compact" height="210" alt="languages graph" /></p>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jyotishman08&show_icons=true&locale=en" height="200" alt="stats graph"  /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jyotishman-chakraborty&show_icons=true&locale=en" height="200" alt="stats graph"  /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=jyotishman08&" height="200" alt="streak graph" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=jyotishman-chakraborty&" height="200" alt="streak graph" /></p>
 </div>
