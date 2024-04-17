@@ -1,4 +1,4 @@
-![logo](https://github.com/jyotishman08/jyotishman08/blob/main/1st.gif)
+![logo](https://github.com/jyotishman-chakraborty/jyotishman08/blob/main/1st.gif)
 <h1 align="center">Hi 👋, I'm Jyotishman Chakraborty</h1>
 
 
