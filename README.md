@@ -16,9 +16,9 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/jyotishman-chakraborty-451535290/](https://www.linkedin.com/in/jyotishman-chakraborty-451535290/)
 
 <h3 align="left">Projects:</h3>
-<p align="left">
-- 📫 How ANALOG WATCH using HTML,CSS,JAVASCRIPT: https://jyotishman-chakraborty.github.io/AnalogWatch/
-</p>
+<p align="left"> </p>
+- ANALOG WATCH using HTML,CSS,JAVASCRIPT: https://jyotishman-chakraborty.github.io/AnalogWatch/
+
 
 
 
