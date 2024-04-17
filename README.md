@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotishman08&label=Profile%20views&color=0e75b6&style=flat" alt="jyotishman08" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotishman-chakraborty&label=Profile%20views&color=0e75b6&style=flat" alt="jyotishman-chakraborty" /> </p>
 
 <p align="left"> <a href="https://twitter.com/jyotishman_08" target="blank"><img src="https://img.shields.io/twitter/follow/jyotishman_08?logo=twitter&style=for-the-badge" alt="jyotishman_08" /></a> </p>
 
